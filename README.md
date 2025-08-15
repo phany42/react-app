@@ -1,12 +1,26 @@
-# Hello World with Routing
+# React App
 
-## A simple React application using Vite that displays "Hello World" and demonstrates basic routing.
+This is a simple React application I am building as part of my internship.  
+It currently displays a message inside a styled **Card** component, supports **light/dark mode**, and now features **responsive design**.
 
-### How to Run the Project
+---
 
-**Clone the repository**
-    
-    git clone https://github.com/phany42/react-app.git
+## Features
+- Message wrapped inside a Card container for better UI.
+- Light/Dark mode toggle.
+- State management using:
+  - `useState` → to store and update the theme.
+  - `useEffect` → to update the UI when the theme changes.
+- **Responsive design** using a **mobile-first approach** with CSS media queries.
+
+---
+
+## Commands to Run the Project
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/phany42/react-app.git
+
     
 
 **Navigate into the project folder**
