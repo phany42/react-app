@@ -18,7 +18,7 @@ It currently displays a message inside a styled **Card** component, supports **l
 ## Commands to Run the Project
 
 1. **Clone the repository:**
-   ```bash
+
    git clone https://github.com/phany42/react-app.git
 
     
